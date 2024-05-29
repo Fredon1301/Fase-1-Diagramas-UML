@@ -15,3 +15,5 @@
 
 
 **DIAGRAMA DE CASOS DE USO:**
+![image](https://github.com/Fredon1301/Fase-1-Diagramas-UML/assets/109442178/a3027bf2-3931-4b60-81db-bb55cae7c2ef)
+

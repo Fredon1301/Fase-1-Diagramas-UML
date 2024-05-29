@@ -1,4 +1,6 @@
 DIAGRAMA DE CLASSE
+![image](https://github.com/Fredon1301/Fase-1-Diagramas-UML/assets/109442178/099f9848-5bac-48b7-9b0b-9368668f367e)
+
 
 DIAGRAMA DE CASOS DE USO
 
